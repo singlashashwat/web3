@@ -1,0 +1,13 @@
+{
+    "name": "ethweb3",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "bignumber.js": "^9.0.1",
+        "bip39": "^3.0.4",
+        "circular-json": "^0.5.9",
+        "hdkey": "^2.0.1",
+        "keccak256": "^1.0.6",
+        "secp256k1": "^4.0.3",
+        "web3": "^1.7.1"
+    }
+}

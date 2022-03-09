@@ -1,0 +1,15 @@
+{
+    "name": "polkadotjs",
+    "dependencies": {
+        "@polkadot/api": "^2.10.2-18",
+        "@polkadot/keyring": "^5.9.2",
+        "@polkadot/ui-keyring": "^1.1.1",
+        "@polkadot/util": "^5.9.2",
+        "@polkadot/util-crypto": "^5.9.2",
+        "bignumber.js": "^9.0.1",
+        "keccak": "^3.0.2",
+        "randombytes": "^2.1.0",
+        "scrypt-async": "^2.0.1",
+        "uuid": "^8.3.2"
+    }
+}
