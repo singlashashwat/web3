@@ -1,0 +1,13 @@
+{
+    "name": "ethweb3",
+    "dependencies": {
+        "@solana/spl-token": "^0.1.2",
+        "@solana/spl-token-registry": "^0.2.2911",
+        "@solana/web3.js": "^1.36.0",
+        "bignumber.js": "^9.0.1",
+        "bip39": "^3.0.4",
+        "crypto": "^1.0.1",
+        "ed25519-hd-key": "^1.2.0",
+        "tweetnacl": "^1.0.3"
+    }
+}
